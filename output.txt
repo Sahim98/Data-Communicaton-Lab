@@ -1,0 +1,3 @@
+Remainder : 100
+Encoded Data (Data + Remainder) :10011101100
+Enter received message: NO error
